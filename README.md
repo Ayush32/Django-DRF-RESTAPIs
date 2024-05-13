@@ -69,3 +69,4 @@ psycopg2==2.9.9
   
               Go to the backend directory 
               python manage.py runserver
+              Open in Chrome/IE - http://127.0.0.1:8000/api/users
